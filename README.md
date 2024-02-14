@@ -1,5 +1,7 @@
 # Fusion
 
+(Note: This repository is not used for in-development versions, they are on a private gitlab to keep them very much seperate. Because if they aren't seperate I'll forget and then I'll modify the wrong one.)
+
 ## Introduction
 
 Hello, welcome to Fusion.
